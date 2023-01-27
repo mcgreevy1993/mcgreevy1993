@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcgreevy1993
 - 👀 I’m interested in learning front end development!
-- 🌱 I’m currently learning HTML, CSS and Java
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I'm building my own website currently on Wordpress (help!)
 
 
